@@ -17,6 +17,6 @@ public class SqsServiceTest {
     @DisplayName("Test Test2")
     @Test
     public void Tes2(){
-        assertEquals(5, 5);
+        assertEquals(5, 6);
     }
 }
