@@ -1,0 +1,5 @@
+cloud:
+  aws:
+    credentials:
+      access-key: ACCESE_KEY (비밀)
+      secret-key: SECRET_KEY (비밀)
